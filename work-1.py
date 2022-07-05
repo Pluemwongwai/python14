@@ -1,0 +1,12 @@
+print("Hello Your Welcome")
+print("Name:Narongrit")
+print("Surname:Wongwai")
+print("Nickname:Pluem")
+print("Number:34")
+print("Classroom:6/14")
+print("StudentNumber:50239")
+print("Age:17")
+print("DateOfBirth:17 August 2004")
+print("Nationality:Thai")
+print("Religion:Buddhist")
+#นายณรงค์ฤทธิ์ ว่องไว เลขที่34 ชั้น ม.6/14
