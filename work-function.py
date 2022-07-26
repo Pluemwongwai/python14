@@ -1,16 +1,16 @@
 #คำสั่งหาพื้นที่สี่เหลี่ยม
-def squre(width,height):
-    ans = width*height
-    print(ans)
-squre(5,5)
+def square(width,height):
+    return width*height
+ans1 = square(5,5)
 #คำสั่งหาพื้นที่สามเหลี่ยม
 def triangle(base,height):
-    ans = 1/2*base*height
-    print(ans)
-triangle(10,5)
+    return 1/2*base*height
+ans2 = triangle(6,5)
 #คำสั่งหาพื้นที่วงกลม
 def circle(radius):
-    ans = 22/7*radius*radius
-    print(ans)
-circle(7)
-#นายณรงค์ฤทธิ์ ว่องไว เลขที่ 34 ชั้น ม6/14
+    return 3.14*(radius*radius)
+ans3 = circle(7)
+print(ans1)
+print(ans2)      
+print(ans3)
+#ณรงค์ฤทธิ์ ว่องไว ม.6/14 เลขที่ 34
